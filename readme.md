@@ -19,3 +19,5 @@ Instructions:
 
 You need all the files in this folder and also files from the [drive](https://drive.google.com/drive/folders/1OK2FUVBdd6y19i9E1jEQ6SQe42epgV8v) link to run the make_video.py program
 
+The face detection part was from this [repo](https://github.com/1adrianb/face-alignment) which we found in the [wav2lip](https://github.com/Rudrabha/Wav2Lip) repo
+
