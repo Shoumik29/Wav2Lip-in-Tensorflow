@@ -7,7 +7,7 @@ You can get the tensorflow weights and pytorch weights here in this google drive
 
 link: https://drive.google.com/drive/folders/1OK2FUVBdd6y19i9E1jEQ6SQe42epgV8v
 
-Feel free to Contact with us for details
+Feel free to Contact with us for details here, Shomik20@gmail.com
 
 
 instructions:
@@ -19,5 +19,5 @@ try to use videos and audios of 20 secs (max 30 sec)
 try to use videos longer than audios (must)
 
 
-you need all the files in this folder to run the make_video.py program
+You need all the files in this folder and also files from the [drive](https://drive.google.com/drive/folders/1OK2FUVBdd6y19i9E1jEQ6SQe42epgV8v) link to run the make_video.py program
 
