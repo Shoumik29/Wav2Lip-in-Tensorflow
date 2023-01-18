@@ -8,7 +8,7 @@ You can get the tensorflow weights and pytorch weights here in this google drive
 Feel free to Contact with us for details here, Shomik20@gmail.com
 
 
-instructions:
+Instructions:
 
 1. install ffmpeg (video editor) "sudo apt-get install ffmpeg"<br>
 2. install requirements.txt (probably you dont need all of them)<br>
