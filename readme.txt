@@ -3,6 +3,10 @@ Here We have Transformed the original wav2lip model (which was built in pytorch)
 
 We also modified the make_video part for making videos from generated images
 
+You can get the tensorflow weights and pytorch weights here in this google drive link
+
+link: https://drive.google.com/drive/folders/1OK2FUVBdd6y19i9E1jEQ6SQe42epgV8v
+
 Feel free to Contact with us for details
 
 
