@@ -3,9 +3,7 @@ Here We have Transformed the original [wav2lip](https://github.com/Rudrabha/Wav2
 
 We also modified the make_video part for making videos from generated images
 
-You can get the tensorflow weights and pytorch weights here in this google drive link
-
-link: https://drive.google.com/drive/folders/1OK2FUVBdd6y19i9E1jEQ6SQe42epgV8v
+You can get the tensorflow weights and pytorch weights here in this google drive [link](https://drive.google.com/drive/folders/1OK2FUVBdd6y19i9E1jEQ6SQe42epgV8v)
 
 Feel free to Contact with us for details here, Shomik20@gmail.com
 
