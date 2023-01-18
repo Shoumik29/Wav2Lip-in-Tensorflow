@@ -1,5 +1,5 @@
 
-Here We have Transformed the original wav2lip model (which was built in pytorch) from pytorch to tensorflow
+Here We have Transformed the original [wav2lip]{https://github.com/Rudrabha/Wav2Lip} model (which was built in pytorch) from pytorch to tensorflow
 
 We also modified the make_video part for making videos from generated images
 
