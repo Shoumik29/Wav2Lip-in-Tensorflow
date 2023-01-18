@@ -10,7 +10,7 @@ Feel free to Contact with us for details here, Shomik20@gmail.com
 
 Instructions:
 
-1. install ffmpeg (video editor) "sudo apt-get install ffmpeg"<br>
+1. install ffmpeg (video editor) "sudo apt-get install ffmpeg" (for linux machine)<br>
 2. install requirements.txt (probably you dont need all of them)<br>
 3. try to use videos which has faces in all the frames <br>
 4. try to use videos and audios of 20 secs (max 30 sec)<br>
